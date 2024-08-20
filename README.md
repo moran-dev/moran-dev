@@ -9,14 +9,14 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Roboto&color=e1e1e6&size=35&center=true&vCenter=true&weight=700&width=1000&lines=Welcome!!!;Hi,+my+name+is+Vitor+Moran;I'm+Full+Stack+Developer;I'm+Ecommerce+Specialist;I'm+Problem+Solver;I'm+Team+Player;I'm+VTEX+Specialist;)](https://git.io/typing-svg)
 
 <!-- Imagem Prog -->
-<div align="center">
-   <img width="100%" height="50%" src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif"/>
+<div align="center" style="margin-bottom: 16px;">
+   <img width="500px" height="320px" src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif"/>
 </div>
 </div>
 
 
 <div align="center">
-  <a href="https://github.com/moran-dev">
+  <a href="https://moran-dev.github.io/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=moran-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moran-dev&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
@@ -33,7 +33,7 @@
   <div> 
   <a href = "mailto:vitormoran22@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/vitor-moran" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href='https://moran-dev.github.io/' target='_blank'>Portfolio</a>
+  <a href='https://moran-dev.github.io/' target='_blank'><img src="https://cdn-icons-png.flaticon.com/512/3476/3476457.png" target="_blank">Portfolio</a>
   </div>
 
   <div align="center">
