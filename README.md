@@ -41,7 +41,6 @@
 ### 🎨 &nbsp;Front-end
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Typescript](https://img.shields.io/badge/-Typescript-0D1117?style=for-the-badge&logo=Typescript&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 ![Angular](https://img.shields.io/badge/-Angular-0D1117?style=for-the-badge&logo=Angular&labelColor=0D1117&textColor=0D1117)&nbsp;
@@ -50,13 +49,12 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-0D1117?style=for-the-badge&logo=Bootstrap&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![StyledComponents](https://img.shields.io/badge/-StyledComponents-0D1117?style=for-the-badge&logo=StyledComponents&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Jest](https://img.shields.io/badge/-Jest-0D1117?style=for-the-badge&logo=Jest&labelColor=0D1117&textColor=0D1117)&nbsp;
-![DOCKER](https://img.shields.io/badge/-DOCKER-0D1117?style=for-the-badge&logo=DOCKER&labelColor=0D1117)&nbsp;
 
 ### 👩‍💻 &nbsp;Back-End
 
 ![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js)&nbsp;
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-0D1117?style=for-the-badge&logo=Express&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Typeorm](https://img.shields.io/badge/-Typeorm-0D1117?style=for-the-badge&logo=Typeorm&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white)
 
 
