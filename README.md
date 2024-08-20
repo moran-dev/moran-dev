@@ -1,19 +1,32 @@
 ## Welcome to my profile!!!
 
-### Hi, I'm **Vitor Moran**, a Front-End Web Developer, currently working with VTEX platform developing apps at eCommerce Stores. My main objective is to get experience with Back-End as well and to work in Canada as a Full Stack Developer.
+<!-- banner superior -->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=04d361&height=120&section=header"/>
+
+<div align="center">
+<!-- Mensagem -->
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Roboto&color=e1e1e6&size=35&center=true&vCenter=true&weight=700&width=1000&lines=Welcome!!!;Hi,+my+name+is+Vitor+Moran;I'm+Full+Stack+Developer+Ecommerce+Specialist;Problem+Solver;Team+Player;VTEX+Specialist;)](https://git.io/typing-svg)
+
+<!-- Imagem Prog -->
+<div align="center">
+   <img width="100%" src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif"/>
+</div>
+</div>
+
 
 <div align="center">
   <a href="https://github.com/moran-dev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=moran-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moran-dev&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
-<div style="display: inline_block"><br>
+<!-- <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
+</div> -->
   
   ### 📫 How to reach me
   
