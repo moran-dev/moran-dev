@@ -10,7 +10,7 @@
 
 <!-- Imagem Prog -->
 <div align="center">
-   <img width="100%" src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif"/>
+   <img width="100%" height="50%" src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif"/>
 </div>
 </div>
 
@@ -61,7 +61,6 @@
 
 ### 👩‍💻 &nbsp;Back-End
 
-![PostgreSql](https://img.shields.io/badge/-POSTGRESQL-0D1117?style=for-the-badge&logo=POSTGRESQL&labelColor=0D1117)&nbsp;
 ![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js)&nbsp;
 ![Express](https://img.shields.io/badge/-Express-0D1117?style=for-the-badge&logo=Express&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Typeorm](https://img.shields.io/badge/-Typeorm-0D1117?style=for-the-badge&logo=Typeorm&labelColor=0D1117&textColor=0D1117)&nbsp;
