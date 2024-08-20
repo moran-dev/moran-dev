@@ -26,7 +26,7 @@
   <div style="display: flex;align-items: center;justify-content: space-evenly;max-width: 500px;"> 
   <a href = "mailto:vitormoran22@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/vitor-moran" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href='https://moran-dev.github.io/' target='_blank' style="color: #fff;display: flex;"><img src="https://cdn-icons-png.flaticon.com/512/3476/3476457.png" width='24' height='24' style="max-width: 100%;width: 24px;height: 24px;margin-right: 6px;">Portfolio</a>
+  <a href='https://moran-dev.github.io/' target='_blank' style="color: #fff;display: inline-flex;"><img src="https://cdn-icons-png.flaticon.com/512/3476/3476457.png" width='24' height='24' style="margin-right: 6px;">Portfolio</a>
   </div>
 
   <div align="center">
