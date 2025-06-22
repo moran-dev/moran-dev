@@ -8,11 +8,12 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Roboto&color=e1e1e6&size=35&center=true&vCenter=true&weight=700&width=1000&lines=Welcome!!!;Hi,+my+name+is+Vitor+Moran;I'm+Full+Stack+Developer;I'm+Ecommerce+Specialist;I'm+Problem+Solver;I'm+Team+Player;I'm+VTEX+Specialist;)](https://git.io/typing-svg)
 
-<!-- Imagem Prog -->
+<!-- Imagem Prog
 <div align="center" style="margin-bottom: 16px;">
    <img width="500px" height="320px" src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif"/>
 </div>
 </div>
+ -->
 
 
 <div align="center">
